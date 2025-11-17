@@ -17,8 +17,11 @@
       ],
       "screenshot_path": "users/642335102055088128/media/battle_1_screenshot_1.png",
       "video_path": "users/642335102055088128/media/battle_1_video_1.mov",
-      "likes": 1,
-      "comments": []
+      "likes": 2,
+      "comments": [],
+      "liked_by": [
+        "642335102055088128"
+      ]
     }
   ]
 }
