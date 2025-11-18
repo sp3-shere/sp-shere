@@ -94,6 +94,22 @@
       "likes": 0,
       "liked_by": [],
       "comments": []
+    },
+    {
+      "index": 6,
+      "title": "ガチホコバトル 個人的に上手くいった",
+      "code": "RG4K-TMJ2-WW89-4VDC",
+      "memo": "自分的にはうまくできたと思います！\r\nもっとこうすればいいよ〜などアドバイスがあれば教えてくださいっ！",
+      "playlist": "",
+      "created_at": "2025-11-18T12:54:28.177619Z",
+      "splatoon_version": "10.1.0",
+      "screenshot_paths": null,
+      "video_paths": null,
+      "screenshot_path": null,
+      "video_path": null,
+      "likes": 0,
+      "liked_by": [],
+      "comments": []
     }
   ]
 }
