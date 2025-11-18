@@ -1,0 +1,20 @@
+{
+  "battles": [
+    {
+      "index": 1,
+      "title": "test",
+      "code": "RHM6-0527-P09E-BHHQ",
+      "memo": "test",
+      "playlist": "test",
+      "created_at": "2025-11-18T10:19:57.685582Z",
+      "splatoon_version": "10.1.0",
+      "screenshot_paths": null,
+      "video_paths": null,
+      "screenshot_path": null,
+      "video_path": null,
+      "likes": 0,
+      "liked_by": [],
+      "comments": []
+    }
+  ]
+}
