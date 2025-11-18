@@ -65,9 +65,11 @@
       "playlist": "アドバイス",
       "created_at": "2025-11-17T15:03:07.873871Z",
       "splatoon_version": "10.1.0",
-      "screenshot_paths": null,
+      "screenshot_paths": [
+        "users/642335102055088128/media/auto_4_1763462233_1.jpeg"
+      ],
       "video_paths": null,
-      "screenshot_path": null,
+      "screenshot_path": "users/642335102055088128/media/auto_4_1763462233_1.jpeg",
       "video_path": null,
       "likes": 0,
       "liked_by": [],
