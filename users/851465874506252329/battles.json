@@ -8,9 +8,11 @@
       "playlist": "",
       "created_at": "2025-11-18T10:10:37.448042Z",
       "splatoon_version": "10.1.0",
-      "screenshot_paths": null,
+      "screenshot_paths": [
+        "users/851465874506252329/media/auto_1_1763461135_1.jpg"
+      ],
       "video_paths": null,
-      "screenshot_path": null,
+      "screenshot_path": "users/851465874506252329/media/auto_1_1763461135_1.jpg",
       "video_path": null,
       "likes": 0,
       "liked_by": [],
