@@ -141,11 +141,13 @@
       "playlist": "",
       "created_at": "2025-11-19T09:00:46.999685Z",
       "splatoon_version": "10.1.0",
-      "screenshot_paths": null,
+      "screenshot_paths": [
+        "users/642335102055088128/media/auto_8_1763543265_1.jpg"
+      ],
       "video_paths": [
         "users/642335102055088128/media/battle_8_video_1.mov"
       ],
-      "screenshot_path": null,
+      "screenshot_path": "users/642335102055088128/media/auto_8_1763543265_1.jpg",
       "video_path": "users/642335102055088128/media/battle_8_video_1.mov",
       "likes": 0,
       "liked_by": [],
