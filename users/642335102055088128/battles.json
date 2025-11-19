@@ -130,6 +130,24 @@
       "likes": 0,
       "liked_by": [],
       "comments": []
+    },
+    {
+      "index": 8,
+      "title": "ワンパンできるの…？",
+      "code": "RQ4F-E3YM-2EHC-YL9F",
+      "memo": "ラインマーカーも当たってワンパンってことかな…？\r\nわからない。",
+      "playlist": "",
+      "created_at": "2025-11-19T09:00:46.999685Z",
+      "splatoon_version": "10.1.0",
+      "screenshot_paths": null,
+      "video_paths": [
+        "users/642335102055088128/media/battle_8_video_1.mov"
+      ],
+      "screenshot_path": null,
+      "video_path": "users/642335102055088128/media/battle_8_video_1.mov",
+      "likes": 0,
+      "liked_by": [],
+      "comments": []
     }
   ]
 }
